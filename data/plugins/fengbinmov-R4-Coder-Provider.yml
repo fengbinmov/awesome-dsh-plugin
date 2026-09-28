@@ -1,0 +1,6 @@
+url: https://github.com/fengbinmov/R4-Coder-Provider
+name: fengbinmov/R4-Coder-Provider
+category: model
+description:
+  en: 'Unofficial DeepSeek Harness plugin Display [R4 Coder].'
+  zh: '非官方 DeepSeek Harness 插件：在 **设置 → R4 Coder** 里显示 [R4 Coder](https://r4.codes)（`r4.codes`）账户的**套餐余额、钱包、并发上限、到期时间、今日消费与最近 7 天用量**。'
